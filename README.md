@@ -7,14 +7,4 @@
 
 ------------
 
-## Certifications
-- CompTIA Security+
-- Information Technology Specialist in Network Security
-- Information Technology Specialist in Networking
-- Cisco Certified Support Technician Networking
-- CompTIA  Tech+
-------------
-### Accomplishments
-- Career Technical Education Student- Three year achievement
-- Two year captain of the Nova high debate team
 
